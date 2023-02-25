@@ -1,4 +1,4 @@
-# Drum-kit-
+# Drum-kit
 A JavaScript project
 
 - It will show 7 components of a drum kit.
